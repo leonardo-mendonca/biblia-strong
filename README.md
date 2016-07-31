@@ -1,0 +1,2 @@
+# biblia-strong
+Bíblia Strong
